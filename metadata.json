@@ -1,0 +1,6 @@
+{
+  "name": "Laporan Operasional Perkarantinaan BKHIT Papua Barat Daya",
+  "description": "Sistem informasi pelaporan operasional perkarantinaan Balai Karantina Hewan, Ikan, dan Tumbuhan (BKHIT) Papua Barat Daya, terintegrasi langsung dengan database Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
